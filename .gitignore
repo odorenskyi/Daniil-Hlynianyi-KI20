@@ -1,0 +1,12 @@
+
+*.pro.user
+*/build*
+*/*/build*
+*.layout
+*.cbp
+*.depend
+*.o
+*/bin*
+*/*/bin*
+*/obj*
+*/*/obj*
