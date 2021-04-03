@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617465346 source:c:\users\glina\git\daniil-hlynianyi-kb20\lab08\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesGlinianiy.h"
+

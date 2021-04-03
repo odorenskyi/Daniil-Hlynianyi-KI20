@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617403366 source:c:\users\glina\git\daniil-hlynianyi-kb20\lab08\prj\calculation\main.cpp
+	<iostream>
+	"ModulesGlinianiy.h"
+	<math.h>
+

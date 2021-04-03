@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617464055 source:c:\users\glina\git\daniil-hlynianyi-kb20\lab08\prj\glinianiy_task\main.cpp
+	<iostream>
+	<locale.h>
+	"ModulesGlinianiy.h"
+
