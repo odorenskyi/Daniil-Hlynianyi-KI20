@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    int a, b;
+    char a, b;
     int x, y, z, res;
 
     cout << "Danil Glinianiy. CNTU 2021. (c)" << endl;
