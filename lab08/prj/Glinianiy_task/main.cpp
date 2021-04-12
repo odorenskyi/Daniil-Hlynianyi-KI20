@@ -26,14 +26,17 @@ int main()
         cout << "\nРезультат: \a" << false;
     }
 
+
+    do{
+
     cout << "\n\nВведiть x: ";
     cin >> x;
 
     if(x == 0 || x < 3){
         cout << "\nНекоректно введене значення, x не може дорiвнювати нулю, та буди меншим за 3!";
-        Sleep(30000);
-        return 0;
-    }
+     }
+    }while(x == 0 || x < 3);
+
     cout << "Число x в шiстнадцятковiй системi: " << hex << x << endl;
 
     cout << "\nВведiть число y: ";
@@ -46,7 +49,7 @@ int main()
 
     res = s_calculation(x, y, z);
 
-    cout << "\nРезультат: \a" << hex <<  res << endl;
+    cout << "\nРезультат: \a" << dec <<  res << endl;
 
     Sleep(30000);
 
