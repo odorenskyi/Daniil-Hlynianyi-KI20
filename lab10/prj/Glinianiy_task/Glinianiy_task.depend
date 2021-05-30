@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622389481 source:c:\users\glina\git\daniil-hlynianyi-kb20\lab10\prj\glinianiy_task\main.cpp
+	<iostream>
+	<fstream>
+	"ModulesGlinianiy.h"
+	<ctime>
+	<cstring>
+	<string>
+	<wchar.h>
+	<fcntl.h>
+	<codecvt>
+	<clocale>
+	<windows.h>
+
